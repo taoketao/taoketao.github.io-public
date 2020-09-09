@@ -1,0 +1,24 @@
+/*
+ *  
+ * Content under this page's domain is under the GNU AGPLv3 license. 
+ */
+
+
+/*  @ collapsable box
+ *
+ *  https://www.w3schools.com/howto/howto_js_collapsible.asp
+ *
+ * Style the button that is used to open and close the collapsible content 
+ * */
+<style>
+.content {
+    display: none;
+}
+</style>
+
+<style>
+.collapsable {
+    ;
+}
+</style>
+
